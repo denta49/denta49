@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Przemysław 👋
+**Frontend Developer (React / Next.js / TypeScript)** • 4 years experience  
+Building scalable, performance-focused web apps and clean UI architectures.
 
-<!--
-**denta49/denta49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Poland / Remote • 💼 Open to Mid Frontend roles  
+📫 Email: pdentaw@gmail.com • LinkedIn: [LinkedIn](https://www.linkedin.com/in/przemys%C5%82aw-wojenka-53a973176/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
+- **Mobile:** React Native / Expo
+- **Backend (as needed):** Next.js API routes, Supabase, SQL
+- **Tooling:** Git, CI/CD, Performance Optimization, SEO, Design Systems
+
+---
+
+## What I value
+- Performance & UX
+- Maintainable code and clean architecture
+- Ownership and teamwork (code reviews, shipping reliably)
+
